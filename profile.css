@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  font-family: Monospace;
+  color: red;
+}
+
+.injected-text {
+  margin: 60px 300px 20px 300px;
+}
+
+.white-text {
+  color: #ffffff;
+}
+
+.black-text {
+  color: #000
+}
+
+
